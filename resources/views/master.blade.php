@@ -28,13 +28,7 @@
     {{ View::make('footer') }}
 
 <script>
-   $(document).ready(function()
-   {
-       $("button").click(function()
-       {
-           alert("all set")
-       })
-   })
+
 </script>
 </body>
 </html>
